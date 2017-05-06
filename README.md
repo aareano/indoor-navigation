@@ -5,7 +5,7 @@ This mostly holds a [Processing](https://processing.org/tutorials/) project that
 
 Here's a snapshot of what it should look like when running:
 
-![Image of Yaktocat](https://github.com/areano/indoor-navigation/demo.png)
+![Processing visualization](https://github.com/aareano/indoor-navigation/demo.png)
 
 Press the arrow keys to rotate the grid along each of the axes. Press X, Y, and Z to toggle the circles around each of the beacons. A circle represents the current distance the tag is from the beacon. The tag is the white circle and represents the user. It's location is (unreliably) calculated in `sketch.pde`.
 
