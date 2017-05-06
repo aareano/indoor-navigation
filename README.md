@@ -11,4 +11,4 @@ Press the arrow keys to rotate the grid along each of the axes. Press X, Y, and 
 
 ---
 
-This project is heavily inspired by [Wayne Holder](https://sites.google.com/site/wayneholder/uwb-ranging-with-the-decawave-dwm1000---part-ii), and uses [thotro's code](https://github.com/thotro/arduino-dw1000) for the anchors and tags.
+This project is heavily inspired by [Wayne Holder](https://sites.google.com/site/wayneholder/uwb-ranging-with-the-decawave-dwm1000---part-ii) and uses [thotro's code](https://github.com/thotro/arduino-dw1000) for the anchors and tags.
